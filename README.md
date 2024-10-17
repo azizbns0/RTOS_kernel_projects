@@ -10,18 +10,18 @@ This repository contains a collection of RTOS-based projects developed on STM32F
 - **Memory Management**: Dynamic allocation using FreeRTOS heap.  
 
 ## Project Structure  
--**Kernel Modules**: Core RTOS components, task management, and timers.
--**Communication Protocols**: Integration with UART, SPI, and I2C protocols.
--**Interrupt Management**: Implementation of ISRs (Interrupt Service Routines).
--**Memory Management**: Uses dynamic memory with FreeRTOS heap management.
+- **Kernel Modules**: Core RTOS components, task management, and timers.
+- **Communication Protocols**: Integration with UART, SPI, and I2C protocols.
+- **Interrupt Management**: Implementation of ISRs (Interrupt Service Routines).
+- **Memory Management**: Uses dynamic memory with FreeRTOS heap management.
 
 ## Setup and Usage
--**Clone the Repository**:
--**Build and Flash:**
--**Run and Monitor:**
+- **Clone the Repository**:
+- **Build and Flash:**
+- **Run and Monitor:**
 ## Learning Outcomes
--**In-depth knowledge of task scheduling, synchronization, and RTOS architecture.**
--**Experience in managing real-time communication protocols with FreeRTOS.**
--**Practical exploration of kernel-level functions and STM32 registers.**
+- **In-depth knowledge of task scheduling, synchronization, and RTOS architecture.**
+- **Experience in managing real-time communication protocols with FreeRTOS.**
+- **Practical exploration of kernel-level functions and STM32 registers.**
 ## Contact
 For questions or collaboration, feel free to open an issue in the repository or reach out directly.
